@@ -32,8 +32,16 @@ zekure
 2. Embed video of project demo
 ## Libraries used
 react-dom - 18.2.0
+
 react-router-dom - 6.18.0
+
 node - 18.17.0
+
+Python - 3.11.2
+
+Flask - 2.2.3
+
+Werkzeug - 2.2.3
 ## How to configure
 Instructions for setting up project
 ## How to Run
