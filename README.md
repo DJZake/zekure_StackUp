@@ -26,7 +26,7 @@ Quiz Master is built on a powerful and efficient technological stack to ensure a
 ## Team Id
 zekure
 ## Link to product walkthrough
-[link to video]
+https://drive.google.com/file/d/1t4U6a9L67PzxlEumKE5y33KN-d0GBmsG/view?usp=drive_link
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
